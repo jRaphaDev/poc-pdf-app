@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: poc-pdf-service
+Implementation-Version: 0.0.1
+Built-By: raphael
+Implementation-Vendor-Id: com.poc.pdf
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/poc-pdf-serv
+ ice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,8 @@
+com/poc/pdf/controllers/ObjectController.class
+com/poc/pdf/configuration/WebConfiguration.class
+com/poc/pdf/configuration/SecurityConfiguration.class
+com/poc/pdf/Application.class
+com/poc/pdf/ApplicationCORS.class
+com/poc/pdf/services/ObjectService.class
+com/poc/pdf/services/ObjectServiceImpl.class
+com/poc/pdf/report/ObjectReport.class
